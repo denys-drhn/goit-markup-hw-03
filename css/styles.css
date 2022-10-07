@@ -10,10 +10,14 @@
 	--main-button-accent-color: #188CE8;
 }
 
+html{
+	box-sizing: border-box;
+}
+
 *,
 *::before,
 *::after {
-	box-sizing: border-box;
+	box-sizing: inherit;
 }
 
 .visually-hidden {
