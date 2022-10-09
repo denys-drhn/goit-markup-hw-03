@@ -74,6 +74,11 @@ img{
 	/* outline: 2px solid green; */
 }
 
+.section {
+	padding-bottom: 94px;
+	padding-top: 94px;
+}
+
 /* header */
 .header{
 	border-bottom: 1px solid var(--border-color);
@@ -242,10 +247,7 @@ margin-left: 93px;
 
 
 /* What do we do? technology*/
-.section{
-	padding-bottom: 94px;
-	padding-top: 94px;
-}
+
 
 .title{
 	font-weight: 700;
@@ -358,9 +360,12 @@ text-align: center;
 
 /* portfolio */
 
+
 .filter-container{
 	padding-bottom: 34px;
+
 }
+
 .filter-list{
 	width: 575px;
 	
