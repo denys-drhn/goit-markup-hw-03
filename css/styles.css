@@ -279,14 +279,12 @@ margin-left: 93px;
 /* Our team */
 .team-section{
 	background-color:var(--team-background-color);
-	padding-bottom: 94px;
-	padding-top: 94px;
 }
 
 .team-title{
-	
 	text-align: center;
 }
+
 .team-list{
 display: flex;
 margin-top: 50px;
@@ -330,7 +328,7 @@ margin-bottom: 10px;
 
 /* footer */
 
-.footer {
+.page-footer {
 	background-color: var(--secondary-background-color);
 	padding-top: 60px;
 	padding-bottom: 60px;
